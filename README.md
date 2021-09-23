@@ -6,7 +6,7 @@ My name is Clay Roberts and I am a PhD Candidate at the Institute of Astronomy, 
 
 I'm currently working on the remote sensing of greenhouse gases and am interested in developing tools to help fight climate change 🌎.
 
-### 🔧 Tools
+### 🔧 Languages
 Some stuff here.
 
 <!--
