@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi! 👋
+
+My name is Clay Roberts and I am a PhD Candidate at the Institute of Astronomy, University of Cambridge 🪐🔭 Born and raised in Vermont but living/working/studying in the UK for more than 8 years 🇺🇸🇬🇧
+
+## Research interests 🔬
+
+I'm currently working on the remote sensing of greenhouse gases and am interested in developing tools to help fight climate change. 
 
 <!--
 **Clayton-Roberts/Clayton-Roberts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
