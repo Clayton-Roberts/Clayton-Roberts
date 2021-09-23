@@ -7,7 +7,7 @@ My name is Clay Roberts and I am a PhD Candidate at the Institute of Astronomy, 
 I'm currently working on the remote sensing of greenhouse gases and am interested in developing tools to help fight climate change 🌎.
 
 ### 🔧 Languages
-[![Python badge](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=Python&logoColor=white&color=2bbc8a)](https://www.python.org/)    [![Ruby badge](https://img.shields.io/badge/Code-Ruby-informational?style=for-the-badge&logo=Ruby&logoColor=white&color=2bbc8a)](https://www.ruby-lang.org/en/)    [![C++ badge](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=C++&logoColor=white&color=2bbc8a)](https://en.wikipedia.org/wiki/C%2B%2B) 
+[![Python badge](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=Python&logoColor=white&color=2bbc8a)](https://en.wikipedia.org/wiki/Python_(programming_language))    [![Ruby badge](https://img.shields.io/badge/Code-Ruby-informational?style=for-the-badge&logo=Ruby&logoColor=white&color=2bbc8a)](https://en.wikipedia.org/wiki/Ruby_(programming_language))    [![C++ badge](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=C++&logoColor=white&color=2bbc8a)](https://en.wikipedia.org/wiki/C%2B%2B) 
 
 
 <!--
