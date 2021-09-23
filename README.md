@@ -1,4 +1,4 @@
-### Hi! 👋
+# Hi! 👋
 
 My name is Clay Roberts and I am a PhD Candidate at the Institute of Astronomy, University of Cambridge 🪐🔭  Born and raised in Vermont but living/working/studying in the UK for more than 8 years 🇺🇸🇬🇧
 
