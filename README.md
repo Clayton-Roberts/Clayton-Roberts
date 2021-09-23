@@ -11,6 +11,8 @@ Previous research interests include exoplanets and protoplanetary discs. 🪐
 ### 🔧 Tools
 [![Python badge](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language)) [![HTML badge](https://img.shields.io/badge/HTML-239120?style=plastic&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML) [![C++ badge](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) [![Ruby badge](https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white)](https://en.wikipedia.org/wiki/Ruby_(programming_language)) [![React badge](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)](https://en.wikipedia.org/wiki/React_(JavaScript_library)) [![AWS badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)](https://en.wikipedia.org/wiki/Amazon_Web_Services) ![Macbook badge](https://img.shields.io/badge/Apple-MacBook_Pro-999999?style=plastic&logo=apple&logoColor=white)
 
+[![Python](https://img.shields.io/badge/Code-Python-3776AB?style=plastic&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
+
 
 
 <!--
