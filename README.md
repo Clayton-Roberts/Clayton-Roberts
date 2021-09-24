@@ -1,4 +1,4 @@
-![alt text](https://github.com/Clayton-Roberts/Clayton-Roberts/blob/main/sentinel_5p_render.png?raw=true)
+![alt text](https://github.com/Clayton-Roberts/Clayton-Roberts/blob/main/sentinel_5p_render.jpeg?raw=true)
 
 # Hi! 👋
 
