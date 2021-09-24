@@ -1,3 +1,5 @@
+![alt text](https://github.com/Clayton-Roberts/Clayton-Roberts/blob/main/sentinel_5p_render.png?raw=true)
+
 # Hi! 👋
 
 My name is Clay Roberts and I am a PhD Candidate at the Institute of Astronomy, University of Cambridge. I'm from Vermont and have been living/working/studying in the UK for more than 8 years.
