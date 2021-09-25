@@ -14,7 +14,7 @@ Previous research interests include exoplanets and protoplanetary discs.
 
 ---
 
-### 🔧 Tools and Tech
+### 🔧 Languages and Tools
 [![Python](https://img.shields.io/badge/Code-Python-3776AB?style=plastic&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
 [![HTML](https://img.shields.io/badge/Code-HTML-239120?style=plastic&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
 [![C++](https://img.shields.io/badge/Code-C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
