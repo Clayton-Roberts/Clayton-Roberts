@@ -22,6 +22,12 @@ Previous research interests include exoplanets and protoplanetary discs.
 [![React](https://img.shields.io/badge/Code-React-20232A?style=plastic&logo=react&logoColor=61DAFB)](https://en.wikipedia.org/wiki/React_(JavaScript_library))
 [![AWS](https://img.shields.io/badge/Tools-Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)](https://en.wikipedia.org/wiki/Amazon_Web_Services)
 
+---
+
+### 📖 Publications
+
+[Modelling mid-infrared molecular emission lines from T Tauri stars](https://www.aanda.org/articles/aa/full_html/2018/10/aa31460-17/aa31460-17.html)
+
 
 <!--
 **Clayton-Roberts/Clayton-Roberts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
