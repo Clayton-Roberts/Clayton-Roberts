@@ -26,7 +26,7 @@ Previous research interests include exoplanets and protoplanetary discs.
 
 ### 📖 Publications
 
-[Modelling mid-infrared molecular emission lines from T Tauri stars](https://www.aanda.org/articles/aa/full_html/2018/10/aa31460-17/aa31460-17.html)
+* [Modelling mid-infrared molecular emission lines from T Tauri stars](https://www.aanda.org/articles/aa/full_html/2018/10/aa31460-17/aa31460-17.html)
 
 
 <!--
