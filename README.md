@@ -2,7 +2,7 @@
 
 # Hi! 👋
 
-My name is Clay Roberts and I am a PhD candidate at the Institute of Astronomy, University of Cambridge. I'm from Vermont and have been living/working/studying in the UK for more than 8 years.
+My name is Clay Roberts and I am a PhD candidate at the Institute of Astronomy, University of Cambridge. My doctoral degree is supported by the Cambridge Centre for Doctoral Training in Data Intensive Science, which is an interdisciplinary group shared between multiple departments in the physical sciences. I'm from northern Vermont and have been living/working/studying in the UK for more than 8 years.
 
 ---
 
