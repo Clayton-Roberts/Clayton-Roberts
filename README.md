@@ -26,9 +26,9 @@ Previous research interests include exoplanets and protoplanetary discs.
 
 ### 📖 Publications
 
-* [Enhanced monitoring of atmospheric methane from space with hierarchical Bayesian inference](https://arxiv.org/abs/2111.12486)
+* [Enhanced monitoring of atmospheric methane from space with hierarchical Bayesian inference](https://arxiv.org/abs/2111.12486) (2021)
 
-* [Modelling mid-infrared molecular emission lines from T Tauri stars](https://www.aanda.org/articles/aa/full_html/2018/10/aa31460-17/aa31460-17.html)
+* [Modelling mid-infrared molecular emission lines from T Tauri stars](https://www.aanda.org/articles/aa/full_html/2018/10/aa31460-17/aa31460-17.html) (2018)
 
 
 <!--
