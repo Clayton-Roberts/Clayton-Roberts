@@ -2,13 +2,13 @@
 
 # Hi! 👋
 
-My name is Clay Roberts and I am a PhD candidate at the Institute of Astronomy, University of Cambridge. My doctoral degree is supported by the Cambridge Centre for Doctoral Training in Data Intensive Science, which is an interdisciplinary group shared between multiple departments in the physical sciences. I'm from northern Vermont and have been living/working/studying in the UK for nearly 10 years.
+My name is Clay Roberts and I'm a postdoctoral researcher at the Netherlands Institute for Space Research (SRON) in Leiden, NL. I earned my PhD at the University of Cambridge in 2023. I'm from northern Vermont and have been studying and working in Europe since 2013.
 
 ---
 
 ### 🔬 Research interests
 
-I'm currently working on the remote sensing of greenhouse gases and am interested in developing tools to help mitigate climate change.
+I'm currently working on the remote sensing of methane and am interested in developing tools to help mitigate climate change.
 
 Previous research interests include exoplanets and protoplanetary discs.
 
@@ -25,6 +25,8 @@ Previous research interests include exoplanets and protoplanetary discs.
 ---
 
 ### 📖 Publications
+
+* [Avoiding methane emission rate underestimates when using the divergence method](https://iopscience.iop.org/article/10.1088/1748-9326/ad0252) (2023)
 
 * [Enhanced monitoring of atmospheric methane from space over the Permian Basin with hierarchical Bayesian inference](https://iopscience.iop.org/article/10.1088/1748-9326/ac7062) (2022)
 
