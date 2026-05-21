@@ -26,6 +26,8 @@ Previous research interests include exoplanets and protoplanetary discs.
 
 ### 📖 Publications
 
+* [Machine learning-based emission rate estimates of global methane super-emissions](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1871/) (2026)
+
 * [Avoiding methane emission rate underestimates when using the divergence method](https://iopscience.iop.org/article/10.1088/1748-9326/ad0252) (2023)
 
 * [Enhanced monitoring of atmospheric methane from space over the Permian Basin with hierarchical Bayesian inference](https://iopscience.iop.org/article/10.1088/1748-9326/ac7062) (2022)
