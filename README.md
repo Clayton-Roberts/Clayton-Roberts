@@ -4,6 +4,8 @@
 
 My name is Clay Roberts and I'm a postdoctoral researcher at the Netherlands Institute for Space Research (SRON) in Leiden, NL. I earned my PhD at the University of Cambridge in 2023. I'm from northern Vermont and have been studying and working in Europe since 2013.
 
+(Note: my most recent code from 2023 onwards is hosted on my private Gitlab at SRON)
+
 ---
 
 ### 🔬 Research interests
